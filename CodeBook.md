@@ -16,7 +16,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##Variables
 
----
+
 
 ###Test and Training variables
 
@@ -37,7 +37,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##Transformations
 
----
+
 
 `run_analysis.R` does the following to create two output data text files: `tidyData.txt` and `tidyData2.txt`.
 
